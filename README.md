@@ -3,6 +3,7 @@
 Adds vertex color support to Blender's Wavefront OBJ importer, specifically for importing files exporting used [RareExports](https://github.com/RareExports) tools.
 
 ~~The `.py` files in this repo are meant to overwrite the files in [Blender 2.79c](https://download.blender.org/release/Blender2.79/latest/)'s `scripts/addons/io_scene_obj`.~~
+
 Now just install via *User Preferences - Install Addon from file!*
 [Blender 2.79c](https://download.blender.org/release/Blender2.79/latest/)
 
