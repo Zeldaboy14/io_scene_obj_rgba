@@ -4,8 +4,9 @@ Adds vertex color support to Blender's Wavefront OBJ importer, specifically for 
 
 ~~The `.py` files in this repo are meant to overwrite the files in [Blender 2.79c](https://download.blender.org/release/Blender2.79/latest/)'s `scripts/addons/io_scene_obj`.~~
 
-Now just install via *User Preferences - Install Addon from file!*
-[Blender 2.79c](https://download.blender.org/release/Blender2.79/latest/)
+Now just install via *User Preferences - Install Addon from file!* Insure you install the PROPER version for the version of blender with vertex alpha support your using!
+[Blender 2.79.7c](https://download.blender.org/release/Blender2.79/latest/)
+[Blender 2.79.4c](https://mega.nz/file/6FoHjT7I#FYo28fOblr3BzlHPOVGdWDO8zZuVbaaHOqz40dZx2A8)
 
 It expects vertices in Wavefront OBJ files to use the format:
 ```
